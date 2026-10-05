@@ -176,3 +176,7 @@ outputs/
 *.urdf
 *.xml
 *.part
+
+# SmolVLA LIBERO pipeline (projects/smolvla_libero): local environments and third-party downloads
+.venv-liberoplus/
+third_party/
